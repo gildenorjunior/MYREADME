@@ -1,16 +1,28 @@
-### Hi there 👋
+  
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  
+:heart: Programming | :green_heart: Nature | :blue_heart: Music
+  
+I am a Final Year System of Information Student at College. I love Tecnology and trying to find more about Full Stack Web Development. 
 
-<!--
-**gildenorjunior/gildenorjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently currently unemployed.
+- 🌱 I’m currently learning Full Stack Web development | App Development 
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: I don't special talent. I'm just passionately curious
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/gildenorjunior) |   [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/gildenorjunior) 
+|---|---|---|---|---|---|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+  
+.    
+   
+![Gildenor Junior's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gildenorjunior=["stars"]&show_icons=true)
+
+
+-------
+
+⭐️ From [@Amchuz](https://github.com/Amchuz)
