@@ -5,7 +5,7 @@
   
 I am a Final Year System of Information Student at College. I love Tecnology and trying to find more about Full Stack Web Development. 
 
-- 🔭 I’m currently currently unemployed.
+- 🔭 I’m currently Software Engineer Jr.
 - 🌱 I’m currently learning Full Stack Web development | App Development 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: I don't special talent. I'm just passionately curious
