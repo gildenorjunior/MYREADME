@@ -8,7 +8,7 @@ Bachelor in Information Systems. I work and study programming for a year, before
 
 * 🌍  I'm based in São Paulo - BRASIL
 * ✉️  You can contact me at [junior.silva\_costa@live.com](mailto:junior.silva_costa@live.com)
-* 🧠  I'm learning Front End Web - HTML | CSS | JS | TS | ANGULAR
+* 🧠  I'm learning Front End Web - HTML | CSS | JS | TS | ANGULAR | AWS Cloud Practitioner Certified 
 * ⚡  I don't special talent. I'm just passionately curious
 
 ### Skills
