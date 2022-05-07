@@ -1,7 +1,7 @@
 Hi 👋 My name is Gildenor Junior
 ================================
 
-Engenheiro de Software Jr.
+Engenheiro de Software Jr. (WIP)
 --------------------------
 
 Bachelor in Information Systems. I work and study programming for a year, before I worked with IT support. Now I'm a Software Engineer dedicated to solving problems in a simple, robust and effective way. Always attentive to best practices and accessibility.
